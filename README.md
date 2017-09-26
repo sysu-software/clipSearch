@@ -58,8 +58,8 @@ bin/clipSearch ./test_data/testGenome.fa ./test_data/testGenome.fa.fai ./test_da
 
 Output:
 ---------
-#chrom, chromStart, chromEnd, miR:peak, score, strand, seedType, mfe, alignScore, miR(3'-5'), pairs, target(5'-3'), <BR>
-\>PDCD4	112	134	hsa-miR-21-5p:AGOPeak1	11.00	+	8mer	-9.00	43.00<BR>
+#chrom, chromStart, chromEnd, miR:peak, score, strand, seedType, mfe, alignScore, miR(3'-5'), pairs, target(5'-3'),<br> 
+PDCD4	112	134	hsa-miR-21-5p:AGOPeak1	11.00	+	8mer	-9.00	43.00<BR>
 <pre>
 miRNA  3'--AGTTGTAGTCAGACTATTCGAT-5'
           -.:::.||-|.|||.||||||||
