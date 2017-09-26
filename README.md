@@ -60,9 +60,11 @@ Output:
 ---------
 #chrom, chromStart, chromEnd, miR:peak, score, strand, seedType, mfe, alignScore, miR(3'-5'), pairs, target(5'-3'), <BR>
 \>PDCD4	112	134	hsa-miR-21-5p:AGOPeak1	11.00	+	8mer	-9.00	43.00<BR>
-miRNA  3'--AGTTGTAGTCAGACTATTCGAT-5'<BR>
-          -.:::.||-|.|||.||||||||<BR>
-target 5'-AGTGGAAT-ATTCTAATAAGCTA-3'<BR>
+<pre>
+miRNA  3'--AGTTGTAGTCAGACTATTCGAT-5'
+          -.:::.||-|.|||.||||||||
+target 5'-AGTGGAAT-ATTCTAATAAGCTA-3'
+</pre>
 
 Acknowledgements:
 ---------
@@ -71,11 +73,11 @@ Thanks a lot to everyone who contributed to the public code used by clipSearch.<
 Contact :
 ---------
 /*******************************************************************************
- *	clipSearch - A tool for identifying miRNA-target interactions from CLIP-seq peaks
+ *	clipSearch - A tool for identifying miRNA-target interactions from CLIP-seq peaks<BR>
  *
- *	Author : Jian-Hua Yang yangjh7@mail.sysu.edu.cn
+ *	Author : Jian-Hua Yang yangjh7@mail.sysu.edu.cn<BR>
  * 
- *	School of Life Sciences, Sun Yat-Sen University
+ *	School of Life Sciences, Sun Yat-Sen University<BR>
  *
- *  Create Time: 18/09/2010
- *******************************************************************************/
+ *  Create Time: 18/09/2010<BR>
+ *******************************************************************************/<BR>
