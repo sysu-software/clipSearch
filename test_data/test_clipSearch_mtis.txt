@@ -1,0 +1,4 @@
+>PDCD4	112	134	hsa-miR-21-5p:AGOPeak1	11.00	+	8mer	-9.00	43.00
+miRNA  3'--AGTTGTAGTCAGACTATTCGAT-5'
+          -.:::.||-|.|||.||||||||
+target 5'-AGTGGAAT-ATTCTAATAAGCTA-3'
